@@ -7,6 +7,12 @@
 * Load seed data `rake db:seed`
 * Load sample data `rake spree_sample:load`
 
+## Notes
+
+* Requires postgresql running on :3000
+* Start server with `$ rails server`
+* Configure spree_sample data to match desired taxon view
+
 ## Demo
 
 Try with direct deployment on Heroku:
